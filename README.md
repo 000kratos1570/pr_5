@@ -1,16 +1,19 @@
-# pr_5
+# ПРАКТИЧЕСКАЯ РАБОТА №4
+Тема: Сохранение данных
+Цель: реализовать передачу данных между экранами, сохранение данных в SharedPrefrences и восстановление данных после закрытия приложения.
 
-A new Flutter project.
+Ход работы:
 
-## Getting Started
+![image](https://user-images.githubusercontent.com/114290206/208182110-f64eda5b-f096-4205-ae5f-f7b14ad14d1a.png)
 
-This project is a starting point for a Flutter application.
+Рисунок 18 – Реализация главного окна
+ ![image](https://user-images.githubusercontent.com/114290206/208182121-24f48548-2654-4af0-b325-b55931f55326.png)
 
-A few resources to get you started if this is your first Flutter project:
+Рисунок 19 – Реализация второго окна
+ ![image](https://user-images.githubusercontent.com/114290206/208182132-e82969e3-b698-41ce-818f-d6d845f0cee5.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Рисунок 20 – Результат первого окна
+ ![image](https://user-images.githubusercontent.com/114290206/208182143-69ba269e-eaa1-4465-a727-6db759ba54f4.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Рисунок 21 – Результат второго окна
+Вывод: в результате выполнения практической работы реализовал передачу данных между экранами, сохранение данных в SharedPrefrences и восстановление данных после закрытия приложения.
